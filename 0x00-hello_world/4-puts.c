@@ -1,10 +1,10 @@
-# include <studio.h>
+#include <stdio.h>
 /**
- * main program that outputs statement using puts
- * Return (0) (Success)
- * /
-int main (void)
+ * main - entry point
+ * return - 0 (success)
+ */
+int main(void)
 {
-puts ("/"Programming is like building a multilingual puzzle");
-return (o);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
