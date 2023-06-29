@@ -6,8 +6,10 @@
  */
 
 int main(void)
+
 {
 	int t;
+
 	for (t = 48; t < 58; t++)
 	{
 		putchar(t);
