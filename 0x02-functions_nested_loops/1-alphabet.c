@@ -9,7 +9,7 @@ void print_alphabet(void)
 {
 	char letter = 97;
 
-	while (letter < = 122)
+	while (letter <= 122)
 	{
 		_putchar(letter);
 	}
